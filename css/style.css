@@ -1,5 +1,11 @@
-/* My Styles */
-
-body {
-    background: lightgray;
-}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  h1{
+    background: red;
+    color: white;
+  }
